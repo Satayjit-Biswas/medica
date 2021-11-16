@@ -1,0 +1,19 @@
+.About_area_box{
+    margin: 60px 0;
+}
+.About_area_box h4{
+    margin-bottom: 40px;
+    color: #2dd6c1;
+}
+.About_area_box h2{
+    margin-bottom: 40px;
+}
+.about_icon{
+    padding: 10px 0;
+}
+.about_icon i {
+    line-height: 30px;
+    font-size: 25px;
+    color: #2dd6c1;
+    padding-right: 15px;
+}

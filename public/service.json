@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "img": "https://demo.themexbd.com/html/smartdev/assets/images/service-1.png",
+        "title": "Paralysis Disability",
+        "details": "Experienced and devoted doctors are ready to help you with your problems. Donec vel pellentesque mas thereby leaving ambulances free for emergencies and for patients too ill to travel by car. We currently have over 150 volunteers helping out throughout the North East.Volunteers are not paid for their time, however they do receive out of pocket expenses for thier mileage."
+    },
+    {
+        "id": 2,
+        "img": "https://demo.themexbd.com/html/smartdev/assets/images/service-2.png",
+        "title": "Brain Disability",
+        "details": "Ambulance Car Service Drivers (ACS) are volunteers who use their own vehicles to help with the transportation of patients to and from hospitals and clinics, thereby leaving ambulances free for emergencies and for patients too ill to travel by car. We currently have over 150 volunteers helping out throughout the North East.Volunteers are not paid for their time, however they do receive out of pocket expenses for thier mileage."
+    }
+    ,
+    {
+        "id": 3,
+        "img": "https://demo.themexbd.com/html/smartdev/assets/images/service-3.png",
+        "title": "Medical Service",
+        "details": "Laboratories, we offer a degree of service unequaled in the industry. As an extension of your facility, Certified Laboratories is committed to ensuring that your test regimen is in full compliance with the latest industry regulations and the level of quality you demand as a manufacturer.Our laboratories are staffed 365 days a year. Your samples will be processed and tested the moment they arrive with the highest degree of accuracy and efficiency. We will provide you with the fastest turnaround time in the industry."
+    },
+    {
+        "id": 4,
+        "img": "https://demo.themexbd.com/html/smartdev/assets/images/service-4.png",
+        "title": "Emergency Services",
+        "details": "Critical medical care.An intensive care unit (ICU) provides the critical care and life support for acutely ill and injured patients.Unless you are an emergency admission, you will need a referral from your doctor or specialist to be admitted to ICU.ICU is one of the most critically functioning operational environments in a hospital.Every ICU in a hospital has a different environment that will reflect the specialist medical and surgical procedures they perform.Most ICUs are fairly large sterile areas with a high concentration of specialised, technical and monitoring equipment needed to care for critically ill patients.The ICU environment can be confronting for some patients and visitors who may find the activity, sounds, machines, tubes and monitors intimidating.When you visit someone you care about in ICU it can be an uncomfortable experience – you may feel helpless, overwhelmed, frustrated and sad. Your feelings and apprehension are understood by the staff that provide support for the people you care about."
+    },
+    {
+        "id": 5,
+        "img": "https://demo.themexbd.com/html/smartdev/assets/images/service-5.png",
+        "title": "Heart of Surgery",
+        "details": "Technical and monitoring equipment needed to care for critically ill patients.The ICU environment can be confronting for some patients and visitors who may find the activity, sounds, machines, tubes and monitors intimidating.When you visit someone you care about in ICU it can be an uncomfortable experience – you may feel helpless,critical medical care.An intensive care unit (ICU) provides the critical care and life support for acutely ill and injured patients.Unless you are an emergency admission, you will need a referral from your doctor or specialist to be admitted to ICU.ICU is one of the most critically functioning operational environments in a hospital.Every ICU in a hospital has a different environment that will reflect the specialist medical and surgical procedures they perform.Most ICUs are fairly large sterile areas with a high concentration of specialised, technical and monitoring equipment needed to care for critically ill patients.The ICU environment can be confronting for some patients and visitors who may find the activity, sounds, machines, tubes and monitors intimidating.When you visit someone you care about in ICU it can be an uncomfortable experience – you may feel helpless, overwhelmed, frustrated and sad. Your feelings and apprehension are understood by the staff that provide support for the people you care about.and devoted doctors are ready to help you with your problems. Donec vel pellentesque mas."
+    }
+    ,
+    {
+        "id": 6,
+        "img": "https://demo.themexbd.com/html/smartdev/assets/images/service-6.png",
+        "title": "Tablet Paralysis",
+        "details": "Monitors intimidating.When you visit someone you care about in ICU it can be an uncomfortable experience – you may feel helpless,critical medical care.An intensive care unit (ICU) provides the critical care and life support for acutely ill and injured patients.Unless you are an emergency admission, you will need a referral from your doctor or specialist to be admitted to ICU.ICU is one of the most critically functioning operational environments in a hospital.Every ICU in a hospital has a different environment that will reflect the specialist medical and surgical procedures they perform.Most ICUs are fairly large sterile areas with a high concentration of specialised, technical and monitoring equipment needed to care for critically ill patients.The ICU environment can be confronting for some patients and visitors who may find the activity, sounds, machines, tubes and monitors intimidating.When you visit someone you care about in ICU it can be an uncomfortable experience – you may feel helpless, overwhelmed, frustrated and sad. Your feelings and apprehension are understood by the staff that provide support for the people you care about.and devoted doctors"
+    }
+]

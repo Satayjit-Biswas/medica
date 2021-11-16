@@ -1,0 +1,13 @@
+.slider_area{
+    background-image: url('../../../assets/head-bg.webp');
+    height: 100vh;
+    background-position: top center;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.slider_area_text h2{
+    font-size: 64px;
+    color: #496bf2;
+}

@@ -1,0 +1,10 @@
+.ServiceDetails .service_area_img img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: .3s;
+}
+.ServiceDetails .service_area_sub_box:hover{
+    transform: none;
+    filter: none;
+}

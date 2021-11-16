@@ -1,0 +1,35 @@
+.client_area{
+    margin-bottom: 80px;
+}
+.client_area_box{
+    padding: 40px 30px;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    position: relative;
+    transition: .3s;
+    margin-bottom: 30px;
+}
+.client_area_box::after{
+    position: absolute;
+    content: '';
+    height: 4px;
+    width: calc(100% + 2px);
+    top:-3px;
+    left: -1px;
+    transition: .3s;
+}
+.client_area_box:hover:after{
+    background-color: #496bf2;
+
+}
+.client_area_box:hover{
+    transform: scale(1.05);
+    box-shadow: 0 0 8px 0 #ccc;
+
+}
+.client_area_box i{
+    font-size: 45px;
+    color: #1eac9b;
+}
+.client_area_box>p{
+    margin-top: 20px;
+}

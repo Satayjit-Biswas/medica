@@ -1,0 +1,27 @@
+.login_area{
+    min-height: 70vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.login_form{
+    padding:40px 30px;
+    width: 50%;
+    border: 1px solid rgba(0, 0, 0, 0.11);
+    border-radius: 10px;
+    transition: .3s;    
+}
+.login_form:hover{
+    border: 1px solid #2dd6c1;
+    box-shadow: 0 0 5px 0 #2dd6c1;
+    transform: scale(1.02);
+}
+.login_others {
+    text-align: center;
+    margin-top: 20px;
+}
+.login_others button{
+    display: inline-block;
+    padding: 8px 20%;
+    border: 1px solid #2dd6c1;
+}

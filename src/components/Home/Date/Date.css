@@ -1,0 +1,44 @@
+.date_area_wrap{
+    position: relative;
+    padding-bottom: 210px;
+}
+.date_area {
+    background-color: #fff;
+    position: absolute;
+    top: -100px;
+    padding:0 40px 40px 40px;
+    border-top: 4px solid #496bf2;
+}
+.date_area h4 {
+    margin:40px 0 22px 0;
+}
+.date_area p{
+    max-width: 80%;
+}
+/* Opening time  */
+.Opening_time{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 10% 10px 0;
+    border-bottom: 1px solid rgb(211, 209, 209);
+}
+.Opening_time span{
+    color: #496bf2;
+}
+.Opening_time p{
+    margin: 0 !important;
+}
+/* emergency_tel  */
+.emergency_tel {
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.emergency_tel i{
+    color: #2dd6c1;
+    padding-right: 10px;
+}
+.emergency_tel a{
+    text-decoration: none;
+    color: #496bf2;
+}
